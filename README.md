@@ -139,10 +139,3 @@ Dashboard Design & Storytelling
 
 Business Intelligence Reporting
 
-📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-📬 Connect With Me
-
-If you found this project helpful or interesting, feel free to ⭐ the repository and connect with me on LinkedIn!
